@@ -9,6 +9,9 @@
 <h2>
 <abc><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> About Me</abc>
 </h2>
+<h4>
+My name is Cinerarius and I'm a junior web developer based in India. I have a strong passion for web development and love working with clients to bring their ideas to life.
+</h4>
 
 ## Tech Stack :computer:
 
