@@ -87,7 +87,7 @@ My name is Cinerarius and I'm a junior web developer based in India. I have a st
 <h2>Feel Free To Contact</h2>
 <h3 align="centre">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-koustavrakshit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaustav-rakshit-46110526b)](https://www.linkedin.com/in/kaustav-rakshit-46110526b) 
+   [![Linkedin Badge](https://img.shields.io/badge/-koustavrakshit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaustav-rakshit-46110526b)](https://www.linkedin.com/in/kaustav-rakshit-46110526b) 
    [![Gmail Badge](https://img.shields.io/badge/-koustavrakshit-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:6cine6raius6@gmail.com)](mailto:6cine6raius6@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@sleep.koustav-ff69b4?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/sleep.koustav/)](https://instagram.com/sleep.koustav) 
    [![Facebook Badge](https://img.shields.io/badge/-koustav.rakshit-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/koustav.rakshit.549)](https://www.facebook.com/koustav.rakshit.549)
@@ -98,7 +98,7 @@ My name is Cinerarius and I'm a junior web developer based in India. I have a st
 <div align="right">
   
 [![HitCount](http://hits.dwyl.com/cinerarius/cinerarius.svg)](http://hits.dwyl.com/cinerarius/cinerarius)
-![ViewCount](https://views.whatilearened.today/views/github/cinerarius/cinerarius.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://cinerarius.github.io/cinerarius/)
+![ViewCount](https://views.whatilearened.today/views/github/cinerarius/cinerarius.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/cinerarius)
 
 
 </div>
