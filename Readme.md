@@ -81,7 +81,7 @@ My name is Cinerarius and I'm a junior web developer based in India. I have a st
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=cinerarius&theme=onedark-duo&duo&hide_border=true"/>
 </div>
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+	<img src="https://cdn.jsdelivr.net/gh/cinerarius/cinerarius/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <h2>Feel Free To Contact</h2>
